@@ -12,7 +12,7 @@ Before you begin, ensure you have Node.js installed on your system.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/SarthakJoshi16/mern-booking-app.git
+[git clone https://github.com/SarthakJoshi16/COMFY-mern-booking-app.git]
 cd mern-booking-app
 ```
 
